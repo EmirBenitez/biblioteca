@@ -1,0 +1,20 @@
+
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.darkMode{
+    color: white;
+    background-color: black;
+}
+.darkMode .modal{
+    color: black;
+}
+.darkMode .card{
+    color: black
+}
+.ofertaLibro{
+    color: rgb(217, 255, 0);
+    font-weight: bold;
+}
